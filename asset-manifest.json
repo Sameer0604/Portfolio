@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.9676f3a1.css",
-    "main.js": "/Portfolio/static/js/main.2018d357.js",
+    "main.css": "/Portfolio/static/css/main.039c0fa1.css",
+    "main.js": "/Portfolio/static/js/main.f4307557.js",
     "static/media/aboutBW.jpeg": "/Portfolio/static/media/aboutBW.735629a9e6cebcdf94ae.jpeg",
     "static/media/CA_PAPER.docx.pdf": "/Portfolio/static/media/CA_PAPER.docx.93e582c16ce1081f5df1.pdf",
     "static/media/looo.png": "/Portfolio/static/media/looo.c508f9f08485a2fb9902.png",
+    "static/media/smokey.png": "/Portfolio/static/media/smokey.624b7ae2f08f4c7406de.png",
     "static/media/WanderLunch.png": "/Portfolio/static/media/WanderLunch.90cd558a8e728cc45f8d.png",
     "static/media/s.png": "/Portfolio/static/media/s.c6f8baa5f9123629ca7e.png",
-    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.12034918a8e6dd2d7f4d.pdf",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.d2dc2984f7bdd97bece3.pdf",
     "static/media/Vader.png": "/Portfolio/static/media/Vader.93a9ab5fab7db765b7ed.png",
     "static/media/Paper1.jpg": "/Portfolio/static/media/Paper1.64cde9b33fa038b8cd0a.jpg",
     "static/media/HealthHubDatabase.jpg": "/Portfolio/static/media/HealthHubDatabase.dd9e3431dd38e3086684.jpg",
@@ -20,11 +21,11 @@
     "static/media/Vehichain.png": "/Portfolio/static/media/Vehichain.2f3af527d9ef5d7d7269.png",
     "static/media/WalletWatch.png": "/Portfolio/static/media/WalletWatch.32fcfeac7f04d677989e.png",
     "index.html": "/Portfolio/index.html",
-    "main.9676f3a1.css.map": "/Portfolio/static/css/main.9676f3a1.css.map",
-    "main.2018d357.js.map": "/Portfolio/static/js/main.2018d357.js.map"
+    "main.039c0fa1.css.map": "/Portfolio/static/css/main.039c0fa1.css.map",
+    "main.f4307557.js.map": "/Portfolio/static/js/main.f4307557.js.map"
   },
   "entrypoints": [
-    "static/css/main.9676f3a1.css",
-    "static/js/main.2018d357.js"
+    "static/css/main.039c0fa1.css",
+    "static/js/main.f4307557.js"
   ]
 }
