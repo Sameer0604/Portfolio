@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.039c0fa1.css",
-    "main.js": "/Portfolio/static/js/main.f4307557.js",
+    "main.js": "/Portfolio/static/js/main.f53affc7.js",
     "static/media/aboutBW.jpeg": "/Portfolio/static/media/aboutBW.735629a9e6cebcdf94ae.jpeg",
     "static/media/CA_PAPER.docx.pdf": "/Portfolio/static/media/CA_PAPER.docx.93e582c16ce1081f5df1.pdf",
     "static/media/looo.png": "/Portfolio/static/media/looo.c508f9f08485a2fb9902.png",
@@ -9,6 +9,7 @@
     "static/media/WanderLunch.png": "/Portfolio/static/media/WanderLunch.90cd558a8e728cc45f8d.png",
     "static/media/s.png": "/Portfolio/static/media/s.c6f8baa5f9123629ca7e.png",
     "static/media/Resume.pdf": "/Portfolio/static/media/Resume.d2dc2984f7bdd97bece3.pdf",
+    "static/media/BookBuddy.png": "/Portfolio/static/media/BookBuddy.121e6e7dbd0903209adc.png",
     "static/media/Vader.png": "/Portfolio/static/media/Vader.93a9ab5fab7db765b7ed.png",
     "static/media/Paper1.jpg": "/Portfolio/static/media/Paper1.64cde9b33fa038b8cd0a.jpg",
     "static/media/HealthHubDatabase.jpg": "/Portfolio/static/media/HealthHubDatabase.dd9e3431dd38e3086684.jpg",
@@ -22,10 +23,10 @@
     "static/media/WalletWatch.png": "/Portfolio/static/media/WalletWatch.32fcfeac7f04d677989e.png",
     "index.html": "/Portfolio/index.html",
     "main.039c0fa1.css.map": "/Portfolio/static/css/main.039c0fa1.css.map",
-    "main.f4307557.js.map": "/Portfolio/static/js/main.f4307557.js.map"
+    "main.f53affc7.js.map": "/Portfolio/static/js/main.f53affc7.js.map"
   },
   "entrypoints": [
     "static/css/main.039c0fa1.css",
-    "static/js/main.f4307557.js"
+    "static/js/main.f53affc7.js"
   ]
 }
