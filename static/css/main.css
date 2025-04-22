@@ -6,10 +6,10 @@
   background-repeat: no-repeat;
   background-size: cover;  /* Changed from contain to cover to better fit the container */
   box-shadow: inset linear-gradient(90deg, #7643df, #172ce7);
-  height: 400px;  /* Increased height */
+  height: 300px;  /* Increased height */
   justify-self: center;
   order: 1;
-  width: 400px;  /* Increased width */
+  width: 300px;  /* Increased width */
 }
 
 @keyframes profile__animate {
